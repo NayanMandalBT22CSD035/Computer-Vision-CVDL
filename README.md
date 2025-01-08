@@ -1,2 +1,2 @@
 # Computer-Vision-CVDL <br>
-Author: Jagdish Chakole
+Author: Jagdish Chakole, IIIT Nagpur
